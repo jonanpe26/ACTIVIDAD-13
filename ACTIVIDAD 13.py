@@ -77,7 +77,7 @@ if encontrado:
 else:
     print("Repartidor no encontrado.")
 
-print("\n--- Estadísticas ---")
+print("Estadísticas")
 empresa.estadisticas()
 
 
